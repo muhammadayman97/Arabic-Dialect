@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+
+<style>
+    h2 {text-align: center;}
+    p {text-align: center;}
+    div.results {
+        display: flex;
+        justify-content: center;
+    }
+</style>
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			<!-- ML model deployment -->
+		</div>
+		<h2>This Dialect Belongs To </h2>
+		
+	</div>
+	</header>
+	<p style="color:blue;font-size:20;text-align: center;"><b></b></p>
+	<div class="results">
+
+
+
+	<!-- <center> -->
+	<div style="width : 30%; text-align: center;">
+		<h2>DL result </h2>
+	<h2 style="color:blue; text-align: center;">{{ predict['prediction_dl'] }}</h2>
+	</div>
+
+<!-- <br/>  -->
+
+	<div style="width : 30%; text-align: center;">
+		<h2>ML result</h2>
+	<h2 style="color:blue; text-align: center;">{{ predict['prediction_ml']  }}</h2>
+	</div>
+	<!-- </center> -->
+	<!-- {% if prediction == 'IQ'%}
+	<h2 style="color:blue;">IQ</h2>
+	{% elif prediction == 'LY'%}
+	<h2 style="color:blue;">LY</h2>
+	{% elif prediction == 'QA'%}
+	<h2 style="color:blue;">QA</h2>
+	{% elif prediction == 'PL'%}
+	<h2 style="color:blue;">PL</h2>
+	{% elif prediction == 'SY'%}
+	<h2 style="color:blue;">SY</h2>
+	{% elif prediction == 'TN'%}
+	<h2 style="color:blue;">TN</h2>
+	{% elif prediction == 'JO'%}
+	<h2 style="color:blue;">JO</h2>
+	{% elif prediction == 'MA'%}
+	<h2 style="color:blue;">MA</h2>
+	{% elif prediction == 'SA'%}
+	<h2 style="color:blue;">SA</h2>
+	{% elif prediction == 'YE'%}
+	<h2 style="color:blue;">YE</h2>
+	{% elif prediction == 'DZ'%}
+	<h2 style="color:blue;">DZ</h2>
+	{% elif prediction == 'EG'%}
+	<h2 style="color:blue;">EG</h2>
+	{% elif prediction == 'LB'%}
+	<h2 style="color:blue;">LB</h2>
+	{% elif prediction == 'KW'%}
+	<h2 style="color:blue;">KW</h2>
+	{% elif prediction == 'OM'%}
+	<h2 style="color:blue;">OM</h2>
+	{% elif prediction == 'SD'%}
+	<h2 style="color:blue;">SD</h2>
+	{% elif prediction == 'AE'%}
+	<h2 style="color:blue;">AE</h2>
+	{% elif prediction == 'BH'%}
+	<h2 style="color:blue;">BH</h2>
+	{% endif %} -->
+
+	</div>
+ 
+<br>
+	<center>
+	<input type="reset" value="Go back!" onclick="history.back()">
+	</center>
+
+</body>
+</html>
+
+
