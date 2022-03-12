@@ -1,10 +1,10 @@
-Welcome To Arabic Dialect Classification Project
+## Welcome To Arabic Dialect Classification Project
 
-Definition : 
+# Definition : 
 
 This projects is for predicting the dialect from a given arabic text based on twitter dataset
 
-Approches : 
+# Approches : 
 
 1 - Data Fetching : the data fetched from an API provided by AIM TECHNOLOGIES, the data was retrieved with a limitation of 1000 request per time 
 
@@ -17,7 +17,7 @@ Approches :
 5 - Web Deployment : And here I Deployed the two chosen models 
 
 
-To Do :
+# To Do :
 
 - I will try to correctly implement araBERT on this dataset and i will share the result
 
