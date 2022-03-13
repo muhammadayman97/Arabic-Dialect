@@ -26,7 +26,7 @@ This projects is for predicting the dialect from a given arabic text based on tw
 # Results :
 
 - 1
-![My Image](Screenshot (49).png)
+![My Image](../Screenshot (49).png)
 
 # References : 
 
