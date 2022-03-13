@@ -4,7 +4,7 @@
 
 This projects is for predicting the dialect from a given arabic text based on twitter dataset
 
-# Approches : 
+# Project Steps : 
 
 1 - Data Fetching : the data fetched from an API provided by AIM TECHNOLOGIES, the data was retrieved with a limitation of 1000 request per time 
 
