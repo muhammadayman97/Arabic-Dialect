@@ -25,7 +25,8 @@ This projects is for predicting the dialect from a given arabic text based on tw
 
 # Results :
 
-- 1
+- ازيك ياسطا
+
 ![My Image](https://raw.githubusercontent.com/muhammadayman97/Arabic-Dialect/main/Screenshot%20(49).png)
 
 # References : 
