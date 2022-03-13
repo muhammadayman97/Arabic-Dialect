@@ -32,6 +32,10 @@ This projects is for predicting the dialect from a given arabic text based on tw
 - شعليك
 
 ![My Image](https://raw.githubusercontent.com/muhammadayman97/Arabic-Dialect/main/Screenshot%20(51).png)
+
+- أحبكم بزاف
+
+![My Image](https://raw.githubusercontent.com/muhammadayman97/Arabic-Dialect/main/Screenshot%20(50).png)
 # References : 
 
 - https://arxiv.org/pdf/2005.06557.pdf
