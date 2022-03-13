@@ -23,6 +23,11 @@ This projects is for predicting the dialect from a given arabic text based on tw
 
 - Search for deploy the models on Heroku to be available for easy use
 
+# Results :
+
+- 1
+![1](https://drive.google.com/file/d/1BIVeJV-8Z-vDIdOKj__HMmyM_kLWBIL1/view?usp=sharing)
+
 
 # References : 
 
