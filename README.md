@@ -31,3 +31,5 @@ This projects is for predicting the dialect from a given arabic text based on tw
 - https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b
 
 - https://aliabdelaal.github.io/blog/intro-to-nlp-p1/#%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%86%D9%88%D8%B9-%D8%A7%D9%84%D9%86%D8%B5-text-classification
+
+- https://stackoverflow.com/questions/66988153/removing-arabic-diacritic-using-python
